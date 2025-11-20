@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+joblib
+streamlit
+numpy
+scipy
+tqdm
+nltk
+scikit-plot
+xgboost==1.6.2

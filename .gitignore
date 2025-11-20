@@ -1,0 +1,12 @@
+/.ipynb_checkpoints
+data/phishing-email-dataset/phishing_emails.csv
+data/phishing-email-dataset/.DS_Store
+/data/unsw-nb15
+/marine_cyber_env
+/training/.ipynb_checkpoints
+data/.DS_Store
+models/.DS_Store
+training/.DS_Store
+models/network_model_unsw.joblib
+models/network_model_unsw_xgb.joblib
+models/phishing_model.joblib
